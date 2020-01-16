@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphDrawer", "GraphDrawer\GraphDrawer.csproj", "{921F4916-15CA-458A-AAD7-9DDD6D426A90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{921F4916-15CA-458A-AAD7-9DDD6D426A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921F4916-15CA-458A-AAD7-9DDD6D426A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921F4916-15CA-458A-AAD7-9DDD6D426A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921F4916-15CA-458A-AAD7-9DDD6D426A90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5214151-E45C-46D4-B23C-1831B07367F0}
+	EndGlobalSection
+EndGlobal
